@@ -16,7 +16,7 @@ var register= document.getElementById("register");
 
 function registration()
 {
-    window.location.href="Register.html";
+    window.location.href="register.html";
 }
 
 register.addEventListener("click",registration);
